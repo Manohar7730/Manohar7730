@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Manohar
 #### Web Developer
-![Web Developer]
 
 Web Developer with a passion for web application development.        Passionate about creating engaging and responsive web applications to deliver exceptional user experiences. Dedicated to driving innovation with the ability to follow industry and technological trends, and facilitating early adoption of innovations.
 
