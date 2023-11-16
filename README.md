@@ -3,8 +3,6 @@
 
 Web Developer with a passion for web application development.        Passionate about creating engaging and responsive web applications to deliver exceptional user experiences. Dedicated to driving innovation with the ability to follow industry and technological trends, and facilitating early adoption of innovations.
 
-Skills: JS / HTML / CSS / JAVA
-
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on Front End Projects. 
 - 🤔 I’m looking for help with Full Stack Web Development 
@@ -28,9 +26,6 @@ Skills: JS / HTML / CSS / JAVA
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Manohar7730&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
