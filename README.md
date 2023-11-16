@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Manohar
 #### Web Developer
-![Web Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT7cUkgqvCkFlFklv5hmZuWcz-7JR2Lco67Q&usqp=CAU)
+![Web Developer]
 
 Web Developer with a passion for web application development.        Passionate about creating engaging and responsive web applications to deliver exceptional user experiences. Dedicated to driving innovation with the ability to follow industry and technological trends, and facilitating early adoption of innovations.
 
