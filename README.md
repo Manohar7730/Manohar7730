@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Manohar Pediredla
 #### 🎯 Aspiring Full-Stack Web Developer | MERN Stack | JavaScript | Node.js | MongoDB  
-####📍 Based in Visakhapatnam, India
+📍 Based in Visakhapatnam, India
 
 I'm a web developer passionate about building responsive and scalable web applications. With a background in Civil Engineering and a strong interest in problem-solving, I’ve transitioned into full-stack development — focusing on creating RESTful APIs and dynamic front-end interfaces.
 
@@ -34,9 +34,6 @@ Check out some of my work:
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Manohar7730&icon=0&color=0)](https://visitcount.itsvg.in)
